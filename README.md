@@ -26,7 +26,7 @@
 - [ ] __Concluído__
 
 
-## Metas do mês de Dezembro
+## Metas do mês de Dezembro:
 - [ ] [Introdução a Criação de Websites com HTML5 e CSS3](https://web.dio.me/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8) [6h]
 - [ ] [Programação para internet com HTML5 e CSS3](https://web.dio.me/course/programando-interfaces-com-html5-e-css3/learning/f5066ef9-b542-43c0-a3c5-1519c61b84ee) [6h]
 - [ ] [Introdução ao JavaScript](https://web.dio.me/course/introducao-ao-javascript/learning/ecf563b8-92b8-4061-95f3-66e32b1014cf) [2h]
