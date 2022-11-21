@@ -1,8 +1,8 @@
-# Orange-Tech :yum:
+# Orange Tech :yum:
 
-## Projeto para aprender do zero desenvolvimento front-end e back-end e tem o propósito de se preparar de verdade para as melhores vagas do mercado de tecnologia.
+## Minha meta para concluír o Bootcamp Orange Tech +
 
-`` console.log("Hello Word!") ``
+`` console.log("Hello World!") ``
 
 🌟 🔝 Obetivos:
 
