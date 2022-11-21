@@ -1,6 +1,6 @@
 # Orange Tech :yum:
 
-## Minha meta para concluír o Bootcamp Orange Tech +
+## Minha meta para concluir o Bootcamp Orange Tech +
 
 `` console.log("Hello World!") ``
 
