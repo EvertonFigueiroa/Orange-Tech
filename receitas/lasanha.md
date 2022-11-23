@@ -1,2 +1,0 @@
-# Orange Tech
-## Bootcamp Inter
