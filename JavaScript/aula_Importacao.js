@@ -1,6 +1,4 @@
 
-const { gets, print } = require('./aulaImportacao2');
-
 /*
     Uma sala contem 5 alunos e para cada aluno foi sorteado um número de 1 - 100.
     Faça um programa que receba os 5 números sorteados para os alunos e mostre o maior número sorteado.
@@ -15,6 +13,9 @@ const { gets, print } = require('./aulaImportacao2');
     Saída:
     98
 */
+
+const { gets, print } = require('./aulaImportacao2');
+
 const listaa = [];
 
 for (let i = 0; i < 6; i++) {
