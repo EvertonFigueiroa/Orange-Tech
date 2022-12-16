@@ -1,10 +1,10 @@
 import React from 'react'
 import { Button } from '../Button'
 import logo from '../../assets/logo.svg'
+import { IHeader } from './types'
 
 import {
     BuscarInputContainer,
-    Column,
     Container,
     Input,
     Menu,
@@ -14,7 +14,7 @@ import {
     Wrapper
 } from './styles'
 
-const Header = ({autenticado}) => {
+const Header = ({autenticado} : IHeader) => {
   return (
     <Wrapper>
         <Container>
